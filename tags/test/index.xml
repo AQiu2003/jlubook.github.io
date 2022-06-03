@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
-        <title>JLUBOOK</title>
-        <link>https://example.com/</link>
-        <description>Recent content on JLUBOOK</description>
+        <title>test on 演示站点</title>
+        <link>https://example.com/tags/test/</link>
+        <description>Recent content in test on 演示站点</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en-us</language>
-        <lastBuildDate>Fri, 03 Jun 2022 10:48:24 +0800</lastBuildDate><atom:link href="https://example.com/index.xml" rel="self" type="application/rss+xml" /><item>
-        <title>关于我们</title>
-        <link>https://example.com/p/%E5%85%B3%E4%BA%8E%E6%88%91%E4%BB%AC/</link>
+        <lastBuildDate>Fri, 03 Jun 2022 10:48:24 +0800</lastBuildDate><atom:link href="https://example.com/tags/test/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>About</title>
+        <link>https://example.com/about/</link>
         <pubDate>Fri, 03 Jun 2022 10:48:24 +0800</pubDate>
         
-        <guid>https://example.com/p/%E5%85%B3%E4%BA%8E%E6%88%91%E4%BB%AC/</guid>
-        <description>&lt;img src="https://example.com/cover.jpg" alt="Featured image of post 关于我们" /&gt;&lt;h1 id=&#34;jlubook的二三事&#34;&gt;JLUBook的二三事&lt;/h1&gt;
+        <guid>https://example.com/about/</guid>
+        <description>&lt;img src="https://example.com/cover.jpg" alt="Featured image of post About" /&gt;&lt;h1 id=&#34;jlubook的二三事&#34;&gt;JLUBook的二三事&lt;/h1&gt;
 &lt;h2 id=&#34;什么是jlubook&#34;&gt;什么是JLUBook&lt;/h2&gt;
 &lt;p&gt;时间回到2022年3月末，长春爆发的那场疫情似乎都让我们措手不及；在寝室的我还能干点啥，于是想：算了，要不做个网站试试？消息众多，或多或少我们都会忘了那么几件，找人帮忙也不知该去问谁，于是乎，这个网站的想法就植入内心了。可惜，我是个菜鸡（依旧骂骂咧咧bushi）&lt;/p&gt;
 &lt;p&gt;上面的文字，可能就是这个网站的基础功能了吧，如同百宝箱一样的收纳校内对于我们而言有必要知道的消息，如果忘记了，就在这个网站查一查，也算是服务于大家了。&lt;/p&gt;
